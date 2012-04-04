@@ -59,8 +59,8 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 ### The Ada Test
 
 1. Does the ratio of women to non-women match your local census polls? 
-2. Do women's tenures match that of non-women?
-3. Do women's salaries match that of non-women?
+2. Do women's tenures match those of non-women?
+3. Do women's salaries match those of non-women?
 4. Do women write code?
 5. Do women make business decisions without approval?
 6. Does your company's marketing portray women similarly to non-women?
@@ -75,25 +75,25 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 
 This one is fairly self-explanatory. An inclusive team will strive to reflect roughly the same distribution as the local population.
 
-As an initial goal, examine your organization in terms of proportion of women and non-women vs. degrees awarded to women vs. non-women in your organization's field. For example, a manufacturing firm would do well if 25% of its engineers were women if ~25% of Mechanical Engineering degrees are awarded to women. 
+As an initial goal, examine your organization in terms of proportion of women and non-women vs. degrees awarded to women vs. non-women in your organization's field. For example, a manufacturing firm would do well if 25% of its engineers were women if about 25% of Mechanical Engineering degrees are awarded to women. 
 
 While degrees may or may not be the best metric, and using this metric may only be passing the buck of sexism to the education system, it's at least a good starting point. 
 
-**2. Do women's tenures match that of non-women?**
+**2. Do women's tenures match those of non-women?**
 
 If an organization finds that they have a higher turnover among women employees, it's time to examine the root cause of that turnover. Are women employees not receiving the same opportunities for advancement, training, etc.? If not, they have a strong incentive to seek employment elsewhere.
 
-**3. Do women's salaries match that of non-women?**
+**3. Do women's salaries match those of non-women?**
 
 Studies in the [United States](http://www.pay-equity.org/info-time.html) reveal that women are payed only 77% of what non-women are paid for the same work, and in the [European Union](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/12/211&format=HTML&aged=0&language=EN&guiLanguage=en) women are paid 16.4% less than their equally qualified non-women counterparts. Pay equity is an essential feature of inclusive teams and failure to provide your women employees with competitive pay will contribute to higher employee turnover (see question 2).
 
 **4. Do women write code?**
 
-While all roles in an organization are required to make the business successful, are women concentrated in non-technical areas of the organization, such as marketing, sales or administration? 
+While all roles in an organization contribute to a business's success, are women concentrated in non-technical areas of the organization, such as marketing, sales, or administration? 
 
 **5. Do women make business decisions without approval?**
 
-Many technical organizations operate on the principle of "ask for forgiveness, not for permission." Are women expected to seek approval for their decisions whereas non-women are not? Are women given the power to contribute as equal members of the organization or are they all concentrated in areas where their work is directed?  
+Many technical organizations operate on the principle of "ask for forgiveness, not permission." Are women expected to seek approval for their decisions whereas non-women are not? Are women given the power to contribute as equal members of the organization or are they all concentrated in areas where their work is directed?  
 
 **6. Does your company's marketing portray women similarly to non-women?**
 
